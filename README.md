@@ -1,4 +1,4 @@
-test-minimumversion   [![Build Status](https://travis-ci.org/kevindawson/test-minimumversion)](https://travis-ci.org/kevindawson/test-minimumversion)
+test-minimumversion   [![Build Status](https://travis-ci.org/kevindawson/test-minimumversion.png)](https://travis-ci.org/kevindawson/test-minimumversion)
 
 ==========
 
